@@ -9,8 +9,8 @@ At first, I expected the challenge to be fairly straight forwards but also to ge
 # What Went Well
 Creating the group and user then assigning the user to the group went well and worked first try.
 
-#What Didn't Go To Plan
+# What Didn't Go To Plan
 As expected, the permissions took a while to figure out and made me go and research how the permissions system in linux works in more detail.
 
-#Possible Improvements
+# Possible Improvements
 For future challenges, I would do more research into the Linux permission system as that is what is holding me back the most when trying to complete the challenge.
